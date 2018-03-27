@@ -1,0 +1,22 @@
+{
+  "type": "datasource",
+  "name": "Plixer",
+  "id": "plixer-data-source",
+
+  "metrics": true,
+
+  "info": {
+    "description": "data source for Scrutinizer",
+    "author": {
+      "name": "brian davenport",
+      "url": "www.plixer.com"
+    },
+    "version": "1.0.0",
+    "updated": "2018-03-23"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": [ ]
+  }
+}
